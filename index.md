@@ -164,3 +164,5 @@ Da Grindz is designed, implemented, and maintained by:
 - [Mishalyn Mei Ilmeng](https://mishalyn-mei-ilmeng.github.io)
 - [Shade Matsumoto](https://shadematsumoto.github.io)
 - [Sydney Hashiro](https://sydhashiro.github.io/)
+
+[Team Contract](https://docs.google.com/document/d/12LfYoMfUt6g-FTpS0mE4qidgtV_ONNVfTD4JU-hROTo/edit?usp=sharing)
