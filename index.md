@@ -63,6 +63,8 @@ Users can update their mood anytime, and it subtly personalizes how the app talk
 - Login / Register buttons
 - Info about the purpose and benefits of the app
 
+<img width="400px" class="rounded p-4" src="../images/landing.png">  
+
 ### Dashboard
 
 Displays personalized data:
@@ -77,6 +79,8 @@ Displays personalized data:
 - Weekly menus with filters (e.g. vegetarian, gluten-free)
 - Interactive campus map
 
+<img width="400px" class="rounded p-4" src="../images/vendorlist.png">
+
 ### Preferences Setup
 
 Users can set:
@@ -85,12 +89,16 @@ Users can set:
 - Macro goals (protein/carb/fat ratios)
 - "Grindz Mood" – a personal filter that tailors recommendations
 
+<img width="400px" class="rounded p-4" src="../images/food-browser.png">
+
 ### Planner Tool
 
 Drag-and-drop meal planning tool:
 - See upcoming meals by vendor availability
 - Generate shopping lists or macros per day
 - Toggle by weekly view or macro goals
+
+<img width="400px" class="rounded p-4" src="../images/weekly-meal-planner.webp">
 
 ---
 
