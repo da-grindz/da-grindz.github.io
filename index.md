@@ -77,8 +77,6 @@ Displays personalized data:
 - Weekly menus with filters (e.g. vegetarian, gluten-free)
 - Interactive campus map
 
-<img width="500px" src="../images/food-browser.png">
-
 ### Preferences Setup
 
 Users can set:
@@ -118,7 +116,7 @@ We are interested in your experience using Da Grindz!  If you would like, please
 
 ## Development History
 
-The development process for BowFolios conformed to [Issue Driven Project Management](https://courses.ics.hawaii.edu/ics314s25/modules/project-management/) practices. In a nutshell:
+The development process for Da Grindz conformed to [Issue Driven Project Management](https://courses.ics.hawaii.edu/ics314s25/modules/project-management/) practices. In a nutshell:
 
 * Development consists of a sequence of Milestones.
 * Each Milestone is specified as a set of tasks.
@@ -132,12 +130,12 @@ The development process for BowFolios conformed to [Issue Driven Project Managem
 
 ## Continuous Integration
 
-![ci-badge](https://github.com/bowfolios/bowfolios/workflows/ci-bowfolios/badge.svg)
+![ci-badge](https://github.com/da-grindz/da-grindz/workflows/ci-da-grindz/badge.svg)
 
-Bowfolios uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/bowfolios/bowfolios/actions](https://github.com/bowfolios/bowfolios/actions).
+Da Grindz uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/da-grindz/da-grindz/actions](https://github.com/da-grindz/da-grindz/actions).
 
 The workflow definition file is quite simple and is located at
-[.github/workflows/ci.yml](https://github.com/bowfolios/bowfolios/blob/main/.github/workflows/ci.yml).
+[.github/workflows/ci.yml](https://github.com/da-grindz/da-grindz/blob/main/.github/workflows/ci.yml).
 
 ---
 
