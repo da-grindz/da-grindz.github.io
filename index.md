@@ -77,6 +77,8 @@ Displays personalized data:
 - Weekly menus with filters (e.g. vegetarian, gluten-free)
 - Interactive campus map
 
+<img width="500px" src="../images/food-browser.png">
+
 ### Preferences Setup
 
 Users can set:
