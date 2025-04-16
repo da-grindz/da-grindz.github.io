@@ -136,6 +136,33 @@ The development process for Da Grindz conformed to [Issue Driven Project Managem
 
 ---
 
+## Milestone 1 Mockups
+
+### Landing Page
+
+<img width="400px" class="rounded p-4" src="../images/landingpage.png">
+
+### Sign In 
+
+<img width="400px" class="rounded p-4" src="../images/sign-in.png">
+
+### Sign Up 
+
+<img width="400px" class="rounded p-4" src="../images/sign-up.png">
+
+### Dashboard
+
+<img width="400px" class="rounded p-4" src="../images/dashboard.png">
+
+### Planner 
+
+<img width="400px" class="rounded p-4" src="../images/planner.png">
+
+### Preferences
+
+<img width="400px" class="rounded p-4" src="../images/allergies.png">
+
+---
 ## Continuous Integration
 
 ![ci-badge](https://github.com/da-grindz/da-grindz/workflows/ci-da-grindz/badge.svg)
