@@ -52,7 +52,7 @@ Users can update their mood anytime, and it subtly personalizes how the app talk
 
 ## Deployment
 
-- Production App: [In Progress...](#)
+- Production App: [Da Grindz](https://da-grindz.vercel.app/)
 - Hosted on **GitHub** with automatic deployments from `main` branch.
 
 ---
