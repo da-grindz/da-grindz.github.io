@@ -1,5 +1,7 @@
 # Da Grindz
 
+View the [Da Grindz Github Organization](https://github.com/da-grindz)
+
 ## Table of contents
 
 - [Overview](#overview)
