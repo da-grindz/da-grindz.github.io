@@ -136,6 +136,12 @@ The development process for Da Grindz conformed to [Issue Driven Project Managem
 
 ---
 
+## Milestone 1 
+
+[M1 Project](https://github.com/orgs/da-grindz/projects/9)
+
+---
+
 ## Milestone 1 Mockups
 
 ### Landing Page
@@ -163,6 +169,13 @@ The development process for Da Grindz conformed to [Issue Driven Project Managem
 <img width="400px" class="rounded p-4" src="../images/allergies.png">
 
 ---
+
+## Milestone 2
+
+[M2 Project](https://github.com/orgs/da-grindz/projects/12)
+
+---
+
 ## Continuous Integration
 
 ![ci-badge](https://github.com/da-grindz/da-grindz/workflows/ci-da-grindz/badge.svg)
