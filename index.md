@@ -7,12 +7,9 @@ View the [Da Grindz Github Organization](https://github.com/da-grindz)
 - [Overview](#overview)
 - [Deployment](#deployment)
 - [User Guide](#user-guide)
-- [Community Feedback](#community-feedback)
 - [Developer Guide](#developer-guide)
 - [Development History](#development-history)
 - [Continuous Integration](#continuous-integration)
-- [Walkthrough Videos](#walkthrough-videos)
-- [Example Enhancements](#example-enhancements)
 - [Team](#team)
 
 ---
@@ -41,12 +38,11 @@ Users can update their mood anytime, and it subtly personalizes how the app talk
 
 ### Technologies Used
 
-- [Next.js](https://nextjs.org/) (Frontend + Backend Routing)
+- [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [React Bootstrap](https://react-bootstrap.github.io/)
-- [PostgreSQL](https://www.postgresql.org/) for persistent data
+- [PostgreSQL](https://www.postgresql.org/)
 - Hosted on [GitHub](https://github.com/)
-- Custom APIs for menu ingestion or scraping (with permission from vendors)
 
 ---
 
@@ -101,12 +97,6 @@ Drag-and-drop meal planning tool:
 - Toggle by weekly view or macro goals
 
 <img width="400px" class="rounded p-4" src="../images/weekly-meal-planner.webp">
-
----
-
-## Community Feedback
-
-We are interested in your experience using Da Grindz!  If you would like, please take a couple of minutes to fill out [Da Grindz Feedback Form (In Progress...)](#). It contains only five short questions and will help us understand how to improve the system.
 
 ---
 
@@ -188,22 +178,6 @@ Da Grindz uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/
 
 The workflow definition file is quite simple and is located at
 [.github/workflows/ci.yml](https://github.com/da-grindz/da-grindz/blob/main/.github/workflows/ci.yml).
-
----
-
-## Walkthrough Videos
-
-- [In Progress...](#)
-
----
-
-## Example Enhancements
-
-- 📱 Mobile PWA version
-- 🍍 UH ID login integration
-- 🧠 AI-powered meal generation based on nutritional gaps
-- 📸 Vendor-sourced food pics
-- 🛒 Marketplace for vendor coupons / student-run popups
 
 ---
 
