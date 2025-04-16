@@ -170,6 +170,8 @@ The development process for Da Grindz conformed to [Issue Driven Project Managem
 
 <img width="400px" class="rounded p-4" src="../images/allergies.png">
 
+<img width="400px" class="rounded p-4" src="../images/mood-descriptions-page.png">
+
 ---
 
 ## Milestone 2
