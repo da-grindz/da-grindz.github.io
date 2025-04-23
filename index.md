@@ -176,7 +176,7 @@ The development process for Da Grindz conformed to [Issue Driven Project Managem
 
 ## Continuous Integration
 
-[![ci-nextjs-application-template](https://github.com/ics-software-engineering/nextjs-application-template/actions/workflows/ci.yml/badge.svg)](https://github.com/ics-software-engineering/nextjs-application-template/actions/workflows/ci.yml)
+[![ci-nextjs-application-template](https://github.com/ics-software-engineering/nextjs-application-template/actions/workflows/ci.yml/badge.svg)](https://github.com/da-grindz/da-grindz/actions/workflows/ci.yml)
 
 Da Grindz uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/da-grindz/da-grindz/actions](https://github.com/da-grindz/da-grindz/actions).
 
