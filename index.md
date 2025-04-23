@@ -166,6 +166,10 @@ The development process for Da Grindz conformed to [Issue Driven Project Managem
 
 ## Milestone 2
 
+### Logo
+
+<img width="400px" class="rounded p-4" src="../images/bone-apple-teeth.png">
+
 [M2 Project](https://github.com/orgs/da-grindz/projects/12)
 
 ---
