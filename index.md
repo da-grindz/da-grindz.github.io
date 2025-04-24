@@ -63,6 +63,7 @@ Users can update their mood anytime, and it subtly personalizes how the app talk
 - Guide to getting started
 
 <img width="400px" class="rounded p-4" src="../images/landingpage.png">  
+<img width="400px" class="rounded p-4" src="../images/landingpage2.png">  
 
 ### Dashboard
 
