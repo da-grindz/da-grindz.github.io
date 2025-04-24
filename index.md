@@ -60,8 +60,9 @@ Users can update their mood anytime, and it subtly personalizes how the app talk
 - Welcome message
 - Login / Register buttons
 - Info about the purpose and benefits of the app
+- Guide to getting started
 
-<img width="400px" class="rounded p-4" src="../images/landing.png">  
+<img width="400px" class="rounded p-4" src="../images/landingpage.png">  
 
 ### Dashboard
 
@@ -69,6 +70,8 @@ Displays personalized data:
 - Meal recommendations based on current "grindz mood"
 - Nutritional overview (calories, macros)
 - Quick links to planner, preferences, and vendor menus
+
+<img width="400px" class="rounded p-4" src="../images/dashboardpage.png">  
 
 ### Vendors Page
 
@@ -87,7 +90,8 @@ Users can set:
 - Macro goals (protein/carb/fat ratios)
 - "Grindz Mood" – a personal filter that tailors recommendations
 
-<img width="400px" class="rounded p-4" src="../images/food-browser.png">
+<img width="400px" class="rounded p-4" src="../images/allergiespage.png">
+<img width="400px" class="rounded p-4" src="../images/grindzmoodpage.png">
 
 ### Planner Tool
 
@@ -96,7 +100,7 @@ Drag-and-drop meal planning tool:
 - Generate shopping lists or macros per day
 - Toggle by weekly view or macro goals
 
-<img width="400px" class="rounded p-4" src="../images/weekly-meal-planner.webp">
+<img width="400px" class="rounded p-4" src="../images/plannerpage.png">
 
 ---
 
@@ -166,11 +170,13 @@ The development process for Da Grindz conformed to [Issue Driven Project Managem
 
 ## Milestone 2
 
+[M2 Project](https://github.com/orgs/da-grindz/projects/12)
+
+[Live Deployment on Vercel](https://da-grindz.vercel.app)
+
 ### Logo
 
 <img width="400px" class="rounded p-4" src="../images/bone-apple-teeth.png">
-
-[M2 Project](https://github.com/orgs/da-grindz/projects/12)
 
 ---
 
@@ -184,6 +190,10 @@ The workflow definition file is quite simple and is located at
 [.github/workflows/ci.yml](https://github.com/da-grindz/da-grindz/blob/main/.github/workflows/ci.yml).
 
 ---
+
+## Milestone 3
+
+[M3 Project]()
 
 ## Team
 
