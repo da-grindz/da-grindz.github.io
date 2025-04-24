@@ -95,9 +95,11 @@ Users can set:
 - "Grindz Mood" – a personal filter that tailors recommendations
 
 Allergies Page:
+
 <img width="400px" class="rounded p-4" src="../images/allergiespage.png">
 
 Grindz Mood Page:
+
 <img width="400px" class="rounded p-4" src="../images/grindzmoodpage.png">
 
 ### Planner Tool
