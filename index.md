@@ -202,7 +202,7 @@ The workflow definition file is quite simple and is located at
 
 ## Milestone 3
 
-[M3 Project]()
+[M3 Project](https://github.com/orgs/da-grindz/projects/14)
 
 ## Team
 
