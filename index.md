@@ -187,6 +187,40 @@ The development process for Da Grindz conformed to [Issue Driven Project Managem
 
 <img width="400px" class="rounded p-4" src="../images/bone-apple-teeth.png">
 
+### Landing Page
+
+<img width="400px" class="rounded p-4" src="../images/landingpage.png">
+
+### Sign In 
+
+<img width="400px" class="rounded p-4" src="../images/sign-in.png">
+
+### Sign Up 
+
+<img width="400px" class="rounded p-4" src="../images/sign-up.png">
+
+### Dashboard
+
+<img width="400px" class="rounded p-4" src="../images/base-mood-dashboard.png">
+
+<img width="400px" class="rounded p-4" src="../images/gainz-dashboard.png">
+
+<img width="400px" class="rounded p-4" src="../images/quick-bento-dashboard.png">
+
+### Planner 
+
+<img width="400px" class="rounded p-4" src="../images/macros-planner.png">
+
+<img width="400px" class="rounded p-4" src="../images/planner.png">
+
+### Preferences
+
+<img width="400px" class="rounded p-4" src="../images/preferenceform.png">
+
+<img width="400px" class="rounded p-4" src="../images/m2allergy.png">
+
+<img width="400px" class="rounded p-4" src="../images/m2grindz-mood.png">
+
 ---
 
 ## Continuous Integration
