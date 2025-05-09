@@ -132,8 +132,8 @@ Drag-and-drop meal planning tool:
 To better understand the usability and effectiveness of our application, we conducted a test involving five community members. Each participant was asked to go on our website and provide feedback based on their experience. The goal was to gather suggestions for improvement from real users representing our target audience.
 
 * "The website is user friendly and it’s helpful to see all of the food options that are offered on campus in one place. The map is also useful because it shows you where the campus dining options and vending machines are, as well as where meal points are accepted." - UHM Economics student
-* "" - UHM CS student
-* insert feedback here
+* "I really enjoyed the visual asthetics and functionality. I think it could be cool to add a stats page to track water intake and calories/protein/carbs ect. over the course of a month." - UHM CS student
+* "The website is super great for those who want to be conscious about what they’re eating while on campus. As it allows you to track macros and how much water you’re drinking." - UHM student
 * insert feedback here
 * insert feedback here
 * make as many or as little bullet points as you need
