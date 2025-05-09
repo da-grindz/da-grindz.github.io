@@ -146,35 +146,27 @@ The development process for Da Grindz conformed to [Issue Driven Project Managem
 [M1 Project](https://github.com/orgs/da-grindz/projects/9)
 
 <details>
-
 <summary>View Details</summary>
   
-## Milestone 1 Mockups
+<h3>Milestone 1 Mockups</h3>
 
-### Landing Page
-
+<h4>Landing Page</h4>
 <img width="400px" class="rounded p-4" src="../images/landingpage.png">
 
-### Sign In 
-
+<h4>Sign In</h4>
 <img width="400px" class="rounded p-4" src="../images/sign-in.png">
 
-### Sign Up 
-
+<h4>Sign Up</h4>
 <img width="400px" class="rounded p-4" src="../images/sign-up.png">
 
-### Dashboard
-
+<h4>Dashboard</h4>
 <img width="400px" class="rounded p-4" src="../images/dashboard.png">
 
-### Planner 
-
+<h4>Planner</h4>
 <img width="400px" class="rounded p-4" src="../images/planner.png">
 
-### Preferences
-
+<h4>Preferences</h4>
 <img width="400px" class="rounded p-4" src="../images/allergies.png">
-
 <img width="400px" class="rounded p-4" src="../images/mood-descriptions-page.png">
 
 </details>
@@ -183,52 +175,38 @@ The development process for Da Grindz conformed to [Issue Driven Project Managem
 
 ## Milestone 2 
 
-[M2 Project](https://github.com/orgs/da-grindz/projects/12)
-
+[M2 Project](https://github.com/orgs/da-grindz/projects/12)  
 [Live Deployment on Vercel](https://da-grindz.vercel.app)
 
 <details>
-
 <summary>View Details</summary>
 
-### Here are the updated pages during M2.
+<h3>Here are the updated pages during M2.</h3>
 
-### Logo
-
+<h4>Logo</h4>
 <img width="400px" class="rounded p-4" src="../images/bone-apple-teeth.png">
 
-### Landing Page
-
+<h4>Landing Page</h4>
 <img width="400px" class="rounded p-4" src="../images/landingpage.png">
 
-### Sign In 
-
+<h4>Sign In</h4>
 <img width="400px" class="rounded p-4" src="../images/sign-in.png">
 
-### Sign Up 
-
+<h4>Sign Up</h4>
 <img width="400px" class="rounded p-4" src="../images/sign-up.png">
 
-### Dashboard
-
+<h4>Dashboard</h4>
 <img width="400px" class="rounded p-4" src="../images/base-mood-dashboard.png">
-
 <img width="400px" class="rounded p-4" src="../images/gainz-dashboard.png">
-
 <img width="400px" class="rounded p-4" src="../images/quick-bento-dashboard.png">
 
-### Planner 
-
+<h4>Planner</h4>
 <img width="400px" class="rounded p-4" src="../images/macros-planner.png">
-
 <img width="400px" class="rounded p-4" src="../images/planner.png">
 
-### Preferences
-
+<h4>Preferences</h4>
 <img width="400px" class="rounded p-4" src="../images/preferenceform.png">
-
 <img width="400px" class="rounded p-4" src="../images/m2allergy.png">
-
 <img width="400px" class="rounded p-4" src="../images/m2grindz-mood.png">
 
 </details>
@@ -240,45 +218,34 @@ The development process for Da Grindz conformed to [Issue Driven Project Managem
 [M3 Project](https://github.com/orgs/da-grindz/projects/14)
 
 <details>
-
 <summary>View Details</summary>
 
-### Here are the updated pages during M3.
+<h3>Here are the updated pages during M3.</h3>
 
-### Landing
-
+<h4>Landing</h4>
 <img width="400px" class="rounded p-4" src="../images/homeM3.png">
 
-### Dashboard
-
-The dashboard received a visual update also offers a randomize feature for users who don't know what mood they want.
-
+<h4>Dashboard</h4>
+<p>The dashboard received a visual update also offers a randomize feature for users who don't know what mood they want.</p>
 <img width="400px" class="rounded p-4" src="../images/dashboardSugarRushM3.png">
 
-### School Map
-
+<h4>School Map</h4>
 <img width="400px" class="rounded p-4" src="../images/mapM3.png">
 
-### Admin 
-
+<h4>Admin</h4>
 <img width="400px" class="rounded p-4" src="../images/adminPageM3.png">
 
-### Vendors
-
+<h4>Vendors</h4>
 <img width="400px" class="rounded p-4" src="../images/vendorListM3.png">
 
-### Menu Item Forms
-
+<h4>Menu Item Forms</h4>
 <img width="400px" class="rounded p-4" src="../images/addMenuItemM3.png">
-
 <img width="400px" class="rounded p-4" src="../images/editMenuItemM3.png">
 
-### Grindz Mood
-
+<h4>Grindz Mood</h4>
 <img width="400px" class="rounded p-4" src="../images/grindzMoodM3.png">
 
-### Preference Editor
-
+<h4>Preference Editor</h4>
 <img width="400px" class="rounded p-4" src="../images/preferencesEditorM3.png">
 
 </details>
