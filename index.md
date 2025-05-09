@@ -141,19 +141,15 @@ The development process for Da Grindz conformed to [Issue Driven Project Managem
 
 ---
 
-<details>
-
-<summary>
-
 ## Milestone 1 
 
 [M1 Project](https://github.com/orgs/da-grindz/projects/9)
 
----
+<details>
+
+<summary>View Details</summary>
   
 ## Milestone 1 Mockups
-  
-</summary>
 
 ### Landing Page
 
@@ -185,17 +181,15 @@ The development process for Da Grindz conformed to [Issue Driven Project Managem
 
 ---
 
-<details>
-
-<summary>
-
 ## Milestone 2 
 
 [M2 Project](https://github.com/orgs/da-grindz/projects/12)
 
 [Live Deployment on Vercel](https://da-grindz.vercel.app)
 
-</summary>
+<details>
+
+<summary>View Details</summary>
 
 ### Here are the updated pages during M2.
 
@@ -241,15 +235,13 @@ The development process for Da Grindz conformed to [Issue Driven Project Managem
 
 ---
 
-<details>
-
-<summary>
-
 ## Milestone 3
 
 [M3 Project](https://github.com/orgs/da-grindz/projects/14)
 
-</summary>
+<details>
+
+<summary>View Details</summary>
 
 ### Here are the updated pages during M3.
 
