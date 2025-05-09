@@ -141,13 +141,19 @@ The development process for Da Grindz conformed to [Issue Driven Project Managem
 
 ---
 
+<details>
+
+<summary>
+
 ## Milestone 1 
 
 [M1 Project](https://github.com/orgs/da-grindz/projects/9)
 
 ---
-
+  
 ## Milestone 1 Mockups
+  
+</summary>
 
 ### Landing Page
 
@@ -175,13 +181,23 @@ The development process for Da Grindz conformed to [Issue Driven Project Managem
 
 <img width="400px" class="rounded p-4" src="../images/mood-descriptions-page.png">
 
+</details>
+
 ---
 
-## Milestone 2
+<details>
+
+<summary>
+
+## Milestone 2 
 
 [M2 Project](https://github.com/orgs/da-grindz/projects/12)
 
 [Live Deployment on Vercel](https://da-grindz.vercel.app)
+
+</summary>
+
+### Here are the updated pages during M2.
 
 ### Logo
 
@@ -221,6 +237,60 @@ The development process for Da Grindz conformed to [Issue Driven Project Managem
 
 <img width="400px" class="rounded p-4" src="../images/m2grindz-mood.png">
 
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## Milestone 3
+
+[M3 Project](https://github.com/orgs/da-grindz/projects/14)
+
+</summary>
+
+### Here are the updated pages during M3.
+
+### Landing
+
+<img width="400px" class="rounded p-4" src="../images/homeM3.png">
+
+### Dashboard
+
+The dashboard received a visual update also offers a randomize feature for users who don't know what mood they want.
+
+<img width="400px" class="rounded p-4" src="../images/dashboardSugarRushM3.png">
+
+### School Map
+
+<img width="400px" class="rounded p-4" src="../images/mapM3.png">
+
+### Admin 
+
+<img width="400px" class="rounded p-4" src="../images/adminPageM3.png">
+
+### Vendors
+
+<img width="400px" class="rounded p-4" src="../images/vendorListM3.png">
+
+### Menu Item Forms
+
+<img width="400px" class="rounded p-4" src="../images/addMenuItemM3.png">
+
+<img width="400px" class="rounded p-4" src="../images/editMenuItemM3.png">
+
+### Grindz Mood
+
+<img width="400px" class="rounded p-4" src="../images/grindzMoodM3.png">
+
+### Preference Editor
+
+<img width="400px" class="rounded p-4" src="../images/preferencesEditorM3.png">
+
+</details>
+
 ---
 
 ## Continuous Integration
@@ -231,12 +301,6 @@ Da Grindz uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/
 
 The workflow definition file is quite simple and is located at
 [.github/workflows/ci.yml](https://github.com/da-grindz/da-grindz/blob/main/.github/workflows/ci.yml).
-
----
-
-## Milestone 3
-
-[M3 Project](https://github.com/orgs/da-grindz/projects/14)
 
 ## Team
 
