@@ -127,8 +127,6 @@ Drag-and-drop meal planning tool:
 
 ---
 
----
-
 ## Community Feedback
 
 To better understand the usability and effectiveness of our application, we conducted a test involving five community members. Each participant was asked to go on our website and provide feedback based on their experience. The goal was to gather suggestions for improvement from real users representing our target audience. These were our findings.
