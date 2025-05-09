@@ -134,6 +134,8 @@ To better understand the usability and effectiveness of our application, we cond
 * "The website is user friendly and it’s helpful to see all of the food options that are offered on campus in one place. The map is also useful because it shows you where the campus dining options and vending machines are, as well as where meal points are accepted." - UHM Economics student
 * "I really enjoyed the visual asthetics and functionality. I think it could be cool to add a stats page to track water intake and calories/protein/carbs ect. over the course of a month." - UHM CS student
 * "The website is super great for those who want to be conscious about what they’re eating while on campus. As it allows you to track macros and how much water you’re drinking. I would maybe suggest being able to add the food suggestions for my mood addable directly to my planner" - UHM student
+* “I love how the site recommends meals based on my mood. It makes the experience more personal and actually helps when I’m too busy to think about what to eat. I think adding more moods or letting users customize their own moods could make it even more interactive.” – UHM Buisness student
+* “The Grindz Moods feature is really fun and helpful, sometimes I don’t know what I feel like eating, so having suggestions based on my mood makes it easier to decide.” – UHM Biology student
 
 ---
 
@@ -257,6 +259,10 @@ The development process for Da Grindz conformed to [Issue Driven Project Managem
 
 <h4>Preference Editor</h4>
 <img width="400px" class="rounded p-4" src="../images/preferencesEditorM3.png">
+
+<h4>Planner</h4>
+<img width="400px" class="rounded p-4" src="../images/planner-m3.png">
+<img width="400px" class="rounded p-4" src="../images/planner-m3.2.png">
 
 </details>
 
