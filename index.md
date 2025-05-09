@@ -133,7 +133,7 @@ To better understand the usability and effectiveness of our application, we cond
 
 * "The website is user friendly and it’s helpful to see all of the food options that are offered on campus in one place. The map is also useful because it shows you where the campus dining options and vending machines are, as well as where meal points are accepted." - UHM Economics student
 * "I really enjoyed the visual asthetics and functionality. I think it could be cool to add a stats page to track water intake and calories/protein/carbs ect. over the course of a month." - UHM CS student
-* "The website is super great for those who want to be conscious about what they’re eating while on campus. As it allows you to track macros and how much water you’re drinking." - UHM student
+* "The website is super great for those who want to be conscious about what they’re eating while on campus. As it allows you to track macros and how much water you’re drinking. I would maybe suggest being able to add the food suggestions for my mood addable directly to my planner" - UHM student
 * insert feedback here
 * insert feedback here
 * make as many or as little bullet points as you need
